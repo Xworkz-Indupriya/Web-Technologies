@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: left;
+    background-color:cornflowerblue;
+}
+
+h2{
+    text-align: center;
+}
+
+h1,h2{
+    color:springgreen;
+}
+.ben{
+    color:tomato;
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+    background-color: royalblue;
+    text-shadow: salmon;
+    text-transform: capitalize;
+}
+
+body{
+    background-image: url("484228.jpg"),url("tom-jerry.jpg");
+    background-size: 780px 780px,780px 780px;
+    background-position-x: left,right;
+    
+    background-color:slategray;
+    background-repeat:no-repeat,no-repeat;
+    
+    
+}

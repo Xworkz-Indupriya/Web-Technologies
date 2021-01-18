@@ -1,0 +1,49 @@
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    padding-bottom: 10px
+}
+
+.row-tab{
+    display: block;
+    padding-bottom: 10px
+}
+
+.label-tab{
+    display: inline-block;
+    width: 44%;
+    text-align: right;
+    vertical-align: top;
+    padding-bottom: 10px
+}
+
+.input-tab{
+    display: inline-block;
+    width: 54%;
+    text-align: left;
+    padding-bottom: 10px
+}
+
+.select-tab{
+    display: inline-block;
+    width: 54%;
+    text-align: left;
+    padding-bottom: 10px
+}
+
+#select-box{
+  padding: 5px 0px;  
+}
+
+
